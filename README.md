@@ -2,6 +2,8 @@
 
 This project is a simple interest calculator that calculates the simple interest based on the principal amount, annual interest rate, and time period.
 
+This project was updated as part of my GitHub learning assignment.
+
 ## Formula
 
 Simple Interest = (Principal × Rate × Time) / 100
